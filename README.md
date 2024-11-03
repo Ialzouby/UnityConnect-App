@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Contact
 **Author**: Issam Alzouby 
 **Email**: ialzouby@ - message me on LinkedIn :) 
-**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ialzouby/)
+**LinkedIn**: https://www.linkedin.com/in/ialzouby/
 
 ---
 
