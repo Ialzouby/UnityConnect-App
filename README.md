@@ -3,7 +3,7 @@
 
 # UnityConnector
 
-![Connection GIF](https://media.giphy.com/media/3o7TKtd5tHdTzLG55a/giphy.gif)
+![Typing GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 UnityConnector is a comprehensive community-driven application that provides real-time translations, language exchange pairings, event management, and essential support features. Built using Swift and Xcode, the app integrates Firebase for user authentication and data management, while leveraging ChatGPT's API for real-time conversational support and a Node.js backend server.
 
