@@ -7,6 +7,8 @@
 
 UnityConnector is a comprehensive community-driven application that provides real-time translations, language exchange pairings, event management, and essential support features. Built using Swift and Xcode, the app integrates Firebase for user authentication and data management, while leveraging ChatGPT's API for real-time conversational support and a Node.js backend server.
 
+Disclaimer: ChatGPT helped our team decide which open-AI API model was best to use. It also helped us with debugging and discovering issues with our code. It also helped us with audio processing in order to receive live responses. 
+
 ## Features
 
 ### 🔗 Real-Time Chat with AI (ChatGPT)
