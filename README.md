@@ -1,4 +1,3 @@
-Here's a detailed and professional GitHub README for your app:
 
 ---
 
@@ -116,10 +115,9 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-**Author**: Your Name  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+**Author**: Issam Alzouby 
+**Email**: ialzouby@ - message me on LinkedIn :) 
+**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ialzouby/)
 
 ---
 
-This README provides a professional and clear overview of the UnityConnector app, ensuring potential collaborators and users can easily understand and set up the project. Let me know if you'd like to add or modify any sections!
