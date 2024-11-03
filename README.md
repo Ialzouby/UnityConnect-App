@@ -112,7 +112,7 @@ UnityConnector is a comprehensive community-driven application that provides rea
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct and submission guidelines.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 **Author**: Issam Alzouby 
